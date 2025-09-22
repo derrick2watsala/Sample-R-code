@@ -1,6 +1,10 @@
-#Sample R Code by Derrick Watsala
+##Sample R code - Derrick Watsala
 
-##Loading Libraries
+#Loading Libraries
 library(tidyverse)
 library(usethis)
 library(gitcreds)
+
+#Loading sample Penguins dataset
+
+
