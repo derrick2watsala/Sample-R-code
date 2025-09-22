@@ -6,5 +6,5 @@ library(usethis)
 library(gitcreds)
 
 #Loading sample Penguins dataset
-
+data("Nile")
 
