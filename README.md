@@ -20,3 +20,6 @@ https://sampleprojectwb.surveycto.com/collect/Sample_Code_by_Watsala_Derrick?cas
 
 https://drive.google.com/file/d/1Evtx2ARHZcBANrcco-ZlILrE98VYNPiA/view?usp=drive_link
 
+**3. Sample STATA Do file**
+
+https://drive.google.com/file/d/1Jp_1pz8P3_N3UIjREuklphbcRk0BkRXr/view?usp=drive_link 
